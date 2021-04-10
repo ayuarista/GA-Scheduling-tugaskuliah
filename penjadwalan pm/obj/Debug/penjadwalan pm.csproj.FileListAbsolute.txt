@@ -1,0 +1,38 @@
+C:\Users\PC\source\repos\penjadwalan pm\penjadwalan pm\bin\Debug\penjadwalan.mdf
+C:\Users\PC\source\repos\penjadwalan pm\penjadwalan pm\bin\Debug\penjadwalan_log.ldf
+C:\Users\PC\source\repos\penjadwalan pm\penjadwalan pm\bin\Debug\penjadwalan pm.exe.config
+C:\Users\PC\source\repos\penjadwalan pm\penjadwalan pm\bin\Debug\penjadwalan pm.exe
+C:\Users\PC\source\repos\penjadwalan pm\penjadwalan pm\bin\Debug\penjadwalan pm.pdb
+C:\Users\PC\source\repos\penjadwalan pm\penjadwalan pm\obj\Debug\penjadwalan pm.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\penjadwalan pm\penjadwalan pm\obj\Debug\penjadwalan_pm.Form1.resources
+C:\Users\PC\source\repos\penjadwalan pm\penjadwalan pm\obj\Debug\penjadwalan_pm.Properties.Resources.resources
+C:\Users\PC\source\repos\penjadwalan pm\penjadwalan pm\obj\Debug\penjadwalan pm.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\penjadwalan pm\penjadwalan pm\obj\Debug\penjadwalan pm.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\penjadwalan pm\penjadwalan pm\obj\Debug\penjadwalan pm.exe
+C:\Users\PC\source\repos\penjadwalan pm\penjadwalan pm\obj\Debug\penjadwalan pm.pdb
+C:\Users\PC\source\repos\penjadwalan pm\penjadwalan pm\obj\Debug\penjadwalan_pm.Form2.resources
+C:\Users\PC\source\repos\penjadwalan pm\penjadwalan pm\obj\Debug\penjadwalan_pm.Form3.resources
+C:\Users\PC\source\repos\penjadwalan pm\penjadwalan pm\obj\Debug\penjadwalan_pm.Form4.resources
+C:\Users\PC\source\repos\penjadwalan pm\penjadwalan pm\bin\Debug\penjadwalan pm.exe.manifest
+C:\Users\PC\source\repos\penjadwalan pm\penjadwalan pm\bin\Debug\penjadwalan pm.application
+C:\Users\PC\source\repos\penjadwalan pm\penjadwalan pm\obj\Debug\penjadwalan pm.exe.manifest
+C:\Users\PC\source\repos\penjadwalan pm\penjadwalan pm\obj\Debug\penjadwalan pm.application
+D:\PROGRAM PENJADWALAN PM2\penjadwalan pm\bin\Debug\penjadwalan.mdf
+D:\PROGRAM PENJADWALAN PM2\penjadwalan pm\bin\Debug\penjadwalan_log.ldf
+D:\PROGRAM PENJADWALAN PM2\penjadwalan pm\bin\Debug\penjadwalan pm.exe.config
+D:\PROGRAM PENJADWALAN PM2\penjadwalan pm\bin\Debug\penjadwalan pm.exe.manifest
+D:\PROGRAM PENJADWALAN PM2\penjadwalan pm\bin\Debug\penjadwalan pm.application
+D:\PROGRAM PENJADWALAN PM2\penjadwalan pm\bin\Debug\penjadwalan pm.exe
+D:\PROGRAM PENJADWALAN PM2\penjadwalan pm\bin\Debug\penjadwalan pm.pdb
+D:\PROGRAM PENJADWALAN PM2\penjadwalan pm\obj\Debug\penjadwalan pm.csprojAssemblyReference.cache
+D:\PROGRAM PENJADWALAN PM2\penjadwalan pm\obj\Debug\penjadwalan_pm.Form1.resources
+D:\PROGRAM PENJADWALAN PM2\penjadwalan pm\obj\Debug\penjadwalan_pm.Form2.resources
+D:\PROGRAM PENJADWALAN PM2\penjadwalan pm\obj\Debug\penjadwalan_pm.Form3.resources
+D:\PROGRAM PENJADWALAN PM2\penjadwalan pm\obj\Debug\penjadwalan_pm.Form4.resources
+D:\PROGRAM PENJADWALAN PM2\penjadwalan pm\obj\Debug\penjadwalan_pm.Properties.Resources.resources
+D:\PROGRAM PENJADWALAN PM2\penjadwalan pm\obj\Debug\penjadwalan pm.csproj.GenerateResource.cache
+D:\PROGRAM PENJADWALAN PM2\penjadwalan pm\obj\Debug\penjadwalan pm.csproj.CoreCompileInputs.cache
+D:\PROGRAM PENJADWALAN PM2\penjadwalan pm\obj\Debug\penjadwalan pm.exe.manifest
+D:\PROGRAM PENJADWALAN PM2\penjadwalan pm\obj\Debug\penjadwalan pm.application
+D:\PROGRAM PENJADWALAN PM2\penjadwalan pm\obj\Debug\penjadwalan pm.exe
+D:\PROGRAM PENJADWALAN PM2\penjadwalan pm\obj\Debug\penjadwalan pm.pdb
